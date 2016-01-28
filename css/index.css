@@ -1,0 +1,59 @@
+#topbar{
+	background-color: #1C1D38;
+}
+
+#titleTop{
+	font-size: 25px;
+}
+
+#country{
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+
+.desc{
+	color:#1C1D38 !important;
+	text-transform: lowercase !important;
+}
+
+.mayusc{
+	text-transform: uppercase; !important;
+}
+
+#iniciarSim{
+	background-color:white !important;
+	margin-bottom: 20px;
+	margin-left: 50px;
+}
+
+.nota{
+	margin-left: 50px;
+	margin-right: 500px;
+}
+
+.btn-success{
+	background-color: #1C1D38 !important;
+
+	border-color: black !important;
+
+	font-style: bold;
+}
+
+#portfolio, #contact,#header{
+	background-color: white !important;
+}
+
+#about,#iniciar{
+	background-color: #E2E2E2 !important;
+}
+
+#colorBlue{
+	color: #2c3e50;
+}
+
+.blue{
+	color: #2c3e50 !important;
+}
+
+
+
